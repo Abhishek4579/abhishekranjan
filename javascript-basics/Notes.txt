@@ -1,0 +1,13 @@
+Data Types in JavaScript
+
+Primitive
+    - number - represents any number - integers, real numbers
+    - string - represents any text data - any letter, number, or special characters, emojis
+    - boolean - represents conditions - true and false
+    - null
+    - undefined
+
+Non-Primitive
+    - Array - represents a sequence of elements - can contain any primitive data Types
+    - Object - represents a collection of elements
+    - Functions - represents a functionality
